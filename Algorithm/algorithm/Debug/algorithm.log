@@ -1,0 +1,4 @@
+﻿  method1.cpp
+d:\c.s.e\2019.1학기\algorithm\알고리즘 과제 2\algorithm\algorithm\method1.cpp(98): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\c.s.e\2019.1학기\algorithm\알고리즘 과제 2\algorithm\algorithm\method1.cpp(234): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  algorithm.vcxproj -> D:\C.S.E\2019.1학기\algorithm\알고리즘 과제 2\algorithm\Debug\algorithm.exe
